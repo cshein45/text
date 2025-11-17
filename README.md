@@ -79,3 +79,4 @@ The files in DATA/{iana|icu|w3|whatwg} are currently not versioned.
 The main issue tracker for the text repository is located at
 https://go.dev/issues. Prefix your issue with "x/text:" in the
 subject line, so it is easy to find.
+    
